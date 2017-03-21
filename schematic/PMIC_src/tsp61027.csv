@@ -1,0 +1,14 @@
+TPS61020
+
+Pin,    Type,           Name,   Side
+9,      input,          SW,     left
+6,      input,          VBAT,   left
+1,      input,          EN,     left
+7,      input,          LBI,    left
+8,      input,          PS,     left
+5,      power_in,       GND,    left
+10,     power_in,       PGND,   right
+4,      output,         LBO,    right
+3,      input,          FB,     right
+2,      output,         VOUT,   right
+11,     power_in,       PPAD,   bottom

@@ -1,0 +1,6 @@
+LM1117
+
+Pin,    Type,           Name,   Side
+1,      power_in,       ADJ/GND,bottom
+3,      input,          VIN,    left
+2,      output,         VOUT,   right     
