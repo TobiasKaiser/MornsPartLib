@@ -17,5 +17,5 @@ Licensing
 
 The CAD models in this repository are not creative works. They are directly transferred from the manufacturer's datasheets. I do not assume copyright on them. Feel free to use them wherever and however you see fit.
 
-----
-Tobias Kaiser <mail@tb-kaiser>
+---
+Tobias Kaiser <mail@tb-kaiser.de>
