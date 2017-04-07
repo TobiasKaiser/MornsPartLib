@@ -5,3 +5,5 @@
 | E-Switch EG1218 | EG1903-ND | device | SWITCH_INV | Morn_Mechanical | EG1218 |
 | STMicro STM32F411xC/xE | 497-14907-ND | MornsVLSDigi | STM32F411xC/xE | ? | ? |
 | Microchip ATTINY861-20MU | ATTINY861-20MU-ND | MornsVLSDigi | ATTINY861-20MU | ? | ? |
+| NXP PCF85176T/1 | 568-5933-1-ND | MornsVLSDigi | PCF85176T | ? | ? |
+| Varitronix VIM-878 | 153-1113-ND | MornsDisplays | VIM-878 | ? | ? |
