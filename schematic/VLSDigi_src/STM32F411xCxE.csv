@@ -48,4 +48,4 @@ Pin,    Name,			Side,		Type
 45,		PB8,			top,		inout
 46,		PB9,			top,		inout
 47,		VSS,			top,		power_in
-4	8,		VDD,			top,		power_in
+48,		VDD,			top,		power_in
