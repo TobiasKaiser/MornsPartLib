@@ -1,7 +1,10 @@
-all: MornsPMIC.lib MornsVLSDigi.lib MornsDisplays.lib
+all: MornsPMIC.lib MornsVLSDigi.lib MornsDisplays.lib MornsModules.lib
 .PHONY: all
 
 MornsPMIC.lib: PMIC_src/lm1117.csv PMIC_src/tps61020.csv
+	kipart --overwrite -o $@ $^ 
+
+MornsModules.lib: Modules_src/TE0725-100-2I9.csv
 	kipart --overwrite -o $@ $^ 
 
 MornsDisplays.lib: Displays_src/VIM-878.csv
