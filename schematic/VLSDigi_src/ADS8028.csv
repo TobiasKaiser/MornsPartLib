@@ -1,0 +1,22 @@
+ADS8028
+
+Pin,    Name,	Side,	Type
+18,     AIN0,   left,   in
+19,     AIN1,   left,   in
+20,     AIN2,   left,   in
+1,      AIN3,   left,   in
+2,      AIN4,   left,   in
+3,      AIN5,   left,   in
+4,      AIN6,   left,   in
+5,      AIN7,   left,   in
+10,     AVDD,   top,    power_in
+7,      REF,    top,    power_in
+16,     DVDD,   top,    power_in
+6,      AGND,   bottom, power_in
+9,      DGND,   bottom, power_in
+12,     TM_BUSY,right,  out
+17,     nPD/nRST,right, in
+11,     nCS,    right,  in
+13,     DIN,    right,  in
+14,     DOUT,   right,  out
+15,     SCLK,   right,  in

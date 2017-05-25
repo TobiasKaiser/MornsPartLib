@@ -1,0 +1,15 @@
+NHD-C12864A1Z-FSW-FBW-HTT
+
+Pin,    Name,           Type,   	Side
+1,      SCL,            input,      bottom
+2,      SI,             input,      bottom
+4,      A0,             input,      bottom
+5,      nRESET,         input,      bottom
+6,      nCS,            input,      bottom
+8,      Hp,             power_in,   bottom
+9,      Hn,             power_in,   bottom
+11,     LEDp,           power_in,   left
+10,     LEDn,           power_in,   left
+7,      VSS,            power_in,   right
+3,      VDD,            power_in,   right
+12,     NC,             nc,         bottom

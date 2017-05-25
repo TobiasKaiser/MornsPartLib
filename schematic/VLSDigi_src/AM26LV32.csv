@@ -1,0 +1,19 @@
+AM26LV32
+
+Pin,    Name,			Side,		Type
+4,      G,              left,       in
+12,     nG,             left,       in
+2,      1A,             left,       in
+1,      1B,             left,       in
+6,      2A,             left,       in
+7,      2B,             left,       in
+10,     3A,             left,       in
+9,      3B,             left,       in
+14,     4A,             left,       in
+15,     4B,             left,       in
+13,     4Y,             right,      out
+11,     3Y,             right,      out
+5,      2Y,             right,      out
+3,      1Y,             right,      out
+8,      GND,            bottom,     power_in
+16,     VCC,            top,        power_in
