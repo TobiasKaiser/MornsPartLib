@@ -1,0 +1,7 @@
+WS2812B
+
+Pin,    Name,			Side,		Type
+1,      VDD,            top,        power_in
+2,      DOUT,           right,      out
+3,      VSS,            bottom,     power_in
+4,      DIN,            left,       in

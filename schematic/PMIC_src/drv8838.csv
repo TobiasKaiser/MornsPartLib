@@ -1,0 +1,11 @@
+DRV8838
+
+Pin,    Type,           Name,   Side
+1,      power_in,       VM,     left
+2,      output,         OUT1,   left
+3,      output,         OUT2,   left
+4,      power_in,       GND,    left
+8,      power_in,       VCC,    right
+7,      input,          nSLEEP, right
+6,      input,          PH,     right
+5,      input,          EN,     right

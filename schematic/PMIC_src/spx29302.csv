@@ -1,0 +1,8 @@
+SPX29302
+
+Pin,    Type,           Name,   Side
+1,      in,             EN,     left
+2,      power_in,       VIN,    left
+3,      power_in,       GND,    bottom
+4,      power_out,      VOUT,   right
+5,      in,             ADJ,    bottom

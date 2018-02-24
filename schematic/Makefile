@@ -1,13 +1,13 @@
 all: MornsPMIC.lib MornsVLSDigi.lib MornsDisplays.lib MornsModules.lib
 .PHONY: all
 
-MornsPMIC.lib: PMIC_src/lm1117.csv PMIC_src/tps61020.csv PMIC_src/mic706.csv
+MornsPMIC.lib: PMIC_src/lm1117.csv PMIC_src/tps61020.csv PMIC_src/drv8838.csv PMIC_src/spx29302.csv
 	kipart --overwrite -o $@ $^ 
 
 MornsModules.lib: Modules_src/TE0725-100-2I9.csv Modules_src/NHD-C12864A1Z-FSW-FBW-HTT.csv
 	kipart --overwrite -o $@ $^ 
 
-MornsDisplays.lib: Displays_src/VIM-878.csv
+MornsDisplays.lib: Displays_src/VIM-878.csv Displays_src/WS2812B.csv
 	kipart --overwrite -o $@ $^ 
 
 #  VLSDigi_src/ATtiny861-20MU.csv => using atmel library instead
