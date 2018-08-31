@@ -1,0 +1,12 @@
+TPS54531
+
+Pin,    Type,           Name,   Side
+1,      output,         BOOT,   right
+2,      power_in,       VIN,    right
+3,      input,          EN,     left
+4,      input,          SS,     left
+5,      input,          VSENSE, right
+6,      output,         COMP,   left
+7,      power_in,       GND,    bottom
+8,      power_out,      PH,     right
+9,      power_in,       GND,    bottom
