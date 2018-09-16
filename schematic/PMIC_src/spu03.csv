@@ -1,0 +1,7 @@
+SPU03
+
+Pin,    Type,           Name,   Side
+1,      power_in,       Vinp,   left
+2,      power_in,       Vinn,   left
+5,      power_out,      Voutn,  right
+7,      power_out,      Voutp,  right

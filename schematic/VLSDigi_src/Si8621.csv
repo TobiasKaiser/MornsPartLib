@@ -1,0 +1,11 @@
+Si8621
+
+Pin,    Name,			Side,		Type
+1,      VDD1,           left,       power_in
+2,      A1,             left,       in
+3,      A2,             left,       out
+4,      GND1,           left,       power_in
+5,      GND2,           right,      power_in
+6,      B2,             right,      in
+7,      B1,             right,      out
+8,      VDD2,           right,      power_in
