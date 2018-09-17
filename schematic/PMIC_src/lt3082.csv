@@ -1,0 +1,6 @@
+LT3082
+
+Pin,    Type,           Name,   Side
+1,      input,          SET,    bottom
+2,      output,         OUT,    bottom
+3,      power_in,       IN,     left

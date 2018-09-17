@@ -1,0 +1,27 @@
+SN74AXC8T245
+
+Pin,    Name,	Side,	Type
+1,      VCCA,   left,   power_in
+2,      DIR1,   left,   in
+3,      A1,     left,   inout
+4,      A2,     left,   inout
+5,      A3,     left,   inout
+6,      A4,     left,   inout
+7,      A5,     left,   inout
+8,      A6,     left,   inout
+9,      A7,     left,   inout
+10,     A8,     left,   inout
+11,     DIR2,   left,   in
+12,     GND,    left,   power_in
+13,     GND,    right,  power_in
+14,     B8,     right,  inout
+15,     B7,     right,  inout
+16,     B6,     right,  inout
+17,     B5,     right,  inout
+18,     B4,     right,  inout
+19,     B3,     right,  inout
+20,     B2,     right,  inout
+21,     B1,     right,  inout
+22,     nOE,    right,  in
+23,     VCCB,   right,  power_in
+24,     VCCB2,  right,  power_in
