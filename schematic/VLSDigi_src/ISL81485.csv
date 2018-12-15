@@ -1,0 +1,11 @@
+ISL81485
+
+Pin,    Name,	Side,	Type
+1,      RO,     left,   output
+2,      /RE,    left,   input
+3,      DE,     left,   input
+4,      DI,     left,   input
+5,      GND,    right,  power_in
+6,      A,      right,  inout
+7,      B,      right,  inout
+8,      VDD,    right,  inout
